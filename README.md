@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm OwerTrif</h1>
 <h3 align="center">Finaly begin moving forward</h3>
+<p align="right"></p><img src="[https://github-profile-trophy.vercel.app/?username=owertrif](https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif)" alt="owertrif" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owertrif&label=Profile%20views&color=0e75b6&style=flat" alt="owertrif" /> </p>
 
